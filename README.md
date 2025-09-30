@@ -3,7 +3,7 @@
 ## 🚀 Getting Started
 
 MiniKit is currently available on npm. To install, run:
-`pnpm i @worldcoin/minikit-js`
+`pnpm i @worldcoin/minikit-airdrophubgroup
 
 or use the CDN:
 `https://cdn.jsdelivr.net/npm/@worldcoin/minikit-js@[version]/+esm`
